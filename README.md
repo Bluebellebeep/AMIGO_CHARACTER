@@ -1,0 +1,2 @@
+# AMIGO_CHARACTER
+hi
